@@ -10,5 +10,4 @@ React + Typescript
 Node.Js  
 TailwindCSS  
 JSON Web Tokens  
-Cookies
 Vite  
